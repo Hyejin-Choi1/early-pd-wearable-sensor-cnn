@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "D:\\Users\\Documents\\PD_ML\\python.exe"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Python: Current File",
+				"type": "python",
+				"request": "launch",
+				"program": "${file}",
+				"console": "integratedTerminal",
+				// "args": ["Results/FoGvsNFoG_ALLRotFS_NrIm", "Plots/FoGvsNFoG_ALLRotFS_NrIm", "PD_FoG", "PD_NFoG"]
+				// "args": ["PDvsCtrl(IMA)_ALLRot(36)_NrIm", "PDs", "Cons"]
+			}
+		]
+	}
+}
