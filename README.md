@@ -1,4 +1,5 @@
-Detection of Early Stage Parkinson’s Disease Using Wearable Sensors at Multiple Body Locations and Convolutional Neural Networks
+**Detection of Early Stage Parkinson’s Disease Using Wearable Sensors at Multiple Body Locations and Convolutional Neural Networks**
+
 
 This repository contains the analysis code used in the manuscript:
 “Detection of Early Stage Parkinson’s Disease Using Wearable Sensors at Multiple Body Locations and Convolutional Neural Networks”.
