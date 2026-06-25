@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.ignoreWords": [
+			"expinfo"
+		],
+		"cSpell.words": [
+			"expinfos",
+			"hyperpara",
+			"raytune"
+		],
+		"files.readonlyInclude": {
+			"{**/.c4z/.extsrcs/*.PROTSYM.cbl,**/.c4z/.extsrcs/*.PROTSYM.listing}": true
+		}
+	}
+}
